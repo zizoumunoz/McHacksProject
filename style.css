@@ -1,4 +1,4 @@
-body {
+.bg {
   background: #f0948e;
 }
 
@@ -8,4 +8,14 @@ a:link {
 
 .top-menu {
   color: black;
+}
+
+.bottom-footer {
+  background: #fffefe;
+}
+
+.homepage-image {
+  border-radius: 20pt;
+  height: auto;
+  max-width: 100%;
 }/*# sourceMappingURL=style.css.map */
