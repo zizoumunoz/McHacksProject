@@ -2,6 +2,10 @@
   background: #f0948e;
 }
 
+body {
+  margin-bottom: 60px;
+}
+
 a:link {
   color: black;
 }
@@ -10,8 +14,9 @@ a:link {
   color: black;
 }
 
-.bottom-footer {
+footer {
   background: #fffefe;
+  height: 60px;
 }
 
 .homepage-image {
