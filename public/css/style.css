@@ -60,6 +60,39 @@ a:link {
   color: black;
 }
 
+a {
+  color: black;
+}
+
+a:hover {
+  color: #776655;
+}
+
+.btn-donate {
+  width: 700px;
+  height: 65px;
+  border-radius: 30px 4px 30px 4px;
+  transition: border-radius 0.5s;
+  font-size: 25px;
+  text-align: left;
+}
+
+.donatespan {
+  margin-left: 13px;
+}
+
+.btn-donate:hover {
+  border-radius: 4px 30px 4px 30px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link:hover {
+  color: #776655;
+}
+
 .top-menu {
   color: black;
 }
