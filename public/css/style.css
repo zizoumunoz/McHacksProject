@@ -1,3 +1,32 @@
+h1 {
+  font-size: 50px;
+}
+
+.login {
+  background-color: #f5f5f5;
+  color: black;
+  border: none;
+}
+
+.login:hover {
+  background-color: #A35650;
+}
+
+.signup {
+  background-color: #f0948e;
+  border-color: black;
+  color: black;
+}
+
+.signup:hover {
+  background-color: #A35650;
+  border: none;
+}
+
+.lead {
+  font-size: 25px;
+}
+
 .bg {
   background: #f0948e;
 }
